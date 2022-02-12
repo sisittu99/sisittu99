@@ -1,0 +1,19 @@
+{
+  
+  //Those settings work finely with 42 norminette.
+  
+  "workbench.colorTheme": "Visual Studio Dark",
+    "editor.accessibilitySupport": "on",
+    "workbench.editorAssociations": {
+        "*.pdf": "default"
+    },
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "editor.tabSize": 4,
+	"editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"editor.renderWhitespace": "all",
+	"files.trimTrailingWhitespace": true,
+	"files.insertFinalNewline": true,
+
+}
