@@ -1,3 +1,4 @@
+- [![mcerchi's 42 stats](https://badge42.vercel.app/api/v2/cl2rgldpg003009ml52tile1w/stats?cursusId=21&coalitionId=124)](https://github.com/JaeSeoKim/badge42)
 - 👋 Hi, I’m @sisittu99
 - 👀 I’m interested in bASS
 - 🌱 I’m currently learning C language
