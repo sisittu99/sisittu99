@@ -7,7 +7,8 @@
 # HI THERE
 - 👋 I’m @sisittu99
 - 👀 I’m interested in bASS
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C++ and Flutter
+- 🌳 I've worked on projects in C and Python
 - 💞️ I’m looking to collaborate on 42Roma projects and stuff
 - 📫 How to reach me: by bus (lovin Cotral)
 
