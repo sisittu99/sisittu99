@@ -7,9 +7,9 @@
 # HI THERE
 - 👋 I’m @sisittu99
 - 👀 I’m interested in bASS
-- 🌱 I’m currently learning C++
-- 🌳 I've worked on projects in C, Flutter and Python
-- 💞️ I’m looking to collaborate on 42Roma projects and stuff
+- 🌱 I’m currently working with TypeScript and Express.js
+- 🌳 I've worked on projects in C/C++, Flutter and Python
+- 💤 I’m looking to sleep
 - 📫 How to reach me: by bus (lovin' Cotral)
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=sisittu99&&style=flat-square)
