@@ -7,7 +7,7 @@
 # HI THERE
 - 👋 I’m @sisittu99
 - 👀 I’m interested in bASS
-- 🌱 I’m currently working with TypeScript and Express.js
+- 🌱 I’m currently working with TypeScript, particularly NestJS and Express.js
 - 🌳 I've worked on projects in C/C++, Flutter and Python
 - 💤 I’m looking to sleep
 - 📫 How to reach me: by bus (lovin' Cotral)
